@@ -8,7 +8,7 @@ h1 {
 
 h2 {
 	font-size : 30px;
-	font-family : 'Castoro', serif;
+	font-family : 'Tahoma', serif;
 }
 
 nav {
@@ -18,11 +18,11 @@ nav {
 table, th, td{
 	border : 1px solid black;
 	font-size : 20px;
-	font-family : 'Castoro', serif;
+	font-family : 'Tahoma', serif;
 }
 
 h1, h3, h4, h5 {
-	font-family : 'Castoro', serif;
+	font-family : 'Tahoma', serif;
 	color : 000080;
 }
 
@@ -72,7 +72,7 @@ table {
 
 p {
 	font-size : 20px;
-	font-family : 'Castoro', serif;
+	font-family : 'Tahoma', serif;
 }
 
 .smallBlack {
